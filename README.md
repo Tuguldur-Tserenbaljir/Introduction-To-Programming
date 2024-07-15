@@ -16,3 +16,8 @@ Assignment 3-100/100 ***NQueen Problem***<br/>
 6. User-defined datatypes.
 7. Advanced pointers. Stacks and Queues.
 8. Dynamic memory allocation.
+
+# Refrence
+Kernighan, Brian W.; Dennis M. Ritchie (February 1978). The C Programming
+Language (1st ed.).
+Englewood Cliffs, NJ: Prentice Hall. ISBN 0-13-110163-3.
