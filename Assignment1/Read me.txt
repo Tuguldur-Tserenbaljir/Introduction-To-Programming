@@ -1,0 +1,19 @@
+				How I wrote the program 
+	Before writing the program, I wanted to break my program into little parts so that it can be done easier. 
+Knowing the bingo game is only won if and if only the selected numbers add up to the same number as the bingo matrix. 
+For example, in a 5X5 bingo is won if the corresponding diagonals, rows or columns are selected in which they make a 
+line of 5 selected numbers, in my case the amount of selected numbers adds up to 5.
+         Firstly, I created an array which stores the bingo numbers with a n number of rows and columns that are inputted
+ from the user. Then I created a while loop which gets the guessing numbers of users for the bingo game until -1 is met. 
+Continuing on I used another array to store data for the purpose of passing 1s and 0s if the guessed numbers are guessed right.
+ For later use, adding 1s and 0s seemed much easier for me to check for bingo on the later stages.
+               Secondly, I wanted to check if there was actually a bingo in the given data. 
+Created an algorithm to check if the right or left diagonal, rows and columns would add up to the matrix of the bingo.
+ Passing on the bingo numbers as 2 to make life easier to print asterisks in front of them but before printing out the asterisks and the output, 
+I had to check if the user had won and print it out.
+               Thirdly, for the last step was to print out the output with single or double asterisks and spaces depending on the value.
+ For example, If the bingo number was passed on as 2 it would print asterisks, single or two depending on the digits of the number.
+               In bringing up the rear, I learned how to plan it at a time which I had help from free source from the internet and the teaching assistant Brandon.
+ Thanks to them, I was able to finish.
+
+
