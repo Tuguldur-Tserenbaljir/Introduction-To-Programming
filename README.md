@@ -5,6 +5,7 @@ This course is for science and engineering students with no programming backgrou
 Assignment 1-100/100
 Assignment 2-100/100
 Assignment 3-100/100
+
 # Syllabus
 1. Introduction.
 2. Variables, data types, and operators.
