@@ -6,6 +6,7 @@ This course is for science and engineering students with no programming backgrou
 Assignment 1-100/100 ***Bingo Game***<br/>
 Assignment 2-100/100 ***Maze***<br/>
 Assignment 3-100/100 ***NQueen Problem***<br/>
+***Sample OJ Problems can be found on the NTHU OJ system: https://acm.cs.nthu.edu.tw***
 
 # Syllabus
 1. Introduction.
